@@ -2,7 +2,7 @@
  
 B.Tech Information Technology student at the University Institute of Information Technology (UIT) Shimla, passionate about building practical tools with Python and SQL.
  
-- 🎓 Currently studying CSE at UIT Shimla (2024 – Present)
+- 🎓 Currently studying IT at UIT Shimla (2024 – Present)
 - 💻 Learning: Python, SQL, and application development
 - 🌱 Actively involved with ETSA (Engineering Technical Students Organization) as a core team member
 - 🎖️ NCC 'A' Certificate holder — discipline, teamwork, and structured training
