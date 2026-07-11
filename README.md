@@ -1,6 +1,6 @@
 # Hi, I'm Vanshika 👋
  
-B.Tech Computer Science and Engineering student at the University Institute of Information Technology (UIT) Shimla, passionate about building practical tools with Python and SQL.
+B.Tech Information Technology student at the University Institute of Information Technology (UIT) Shimla, passionate about building practical tools with Python and SQL.
  
 - 🎓 Currently studying CSE at UIT Shimla (2024 – Present)
 - 💻 Learning: Python, SQL, and application development
